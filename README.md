@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devhabeeblateef
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning AI
+- 👀 I’m a React.js Developer
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web and Mobile development
 - 📫 @devhabeeblateef
 
